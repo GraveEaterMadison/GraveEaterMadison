@@ -15,10 +15,8 @@
 </p>
 
 ### Currently Watching:
-<a href="https://malsignature.com" target="_blank">
-<img src="https://malsignature.com/?/view?username=Zeroyogurt&style=normal" alt="MyAnimeList Currently Watching">
-</a>
 
+[![MyAnimeList](https://malsignature.com/?/view?username=Zeroyogurt&style=normal)](https://myanimelist.net/profile/Zeroyogurt)
 ---
 
 
