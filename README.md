@@ -18,7 +18,12 @@
 
 ### Currently Watching:
 
+<div align="center">
+
 [![MyAnimeList](https://malsignature.com/?/view?username=Zeroyogurt&style=normal)](https://myanimelist.net/profile/Zeroyogurt)
+
+</div>
+
 ---
 
 
