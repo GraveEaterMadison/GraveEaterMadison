@@ -6,6 +6,8 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraveEaterMadison)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🎧 Currently Listening
 
 <p align="center">
