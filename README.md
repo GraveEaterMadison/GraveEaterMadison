@@ -27,7 +27,7 @@
 
 ---
 
-### Currently Watching:
+### 🖥️ Currently Watching:
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 ---
 
 
-### Connect with Me
+### ⛓️ Connect with Me
 
 <p align="center">
   <a href="https://discordid.netlify.app/?id=1083412512806019176" target="_blank">
