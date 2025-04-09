@@ -17,6 +17,16 @@
 
 ---
 
+### ⛓️ TryHackMe
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Zeroyogurt" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Zeroyogurt.png?update=1" alt="tryhackme!">
+  </a>
+</p>
+
+---
+
 ### 🎧 Currently Listening
 
 <p align="center">
