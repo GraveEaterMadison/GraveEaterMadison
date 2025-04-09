@@ -17,7 +17,7 @@
 
 ---
 
-### ⛓️ TryHackMe
+### 👨‍💻 TryHackMe:
 
 <p align="center">
   <a href="https://tryhackme.com/p/Zeroyogurt" target="_blank">
