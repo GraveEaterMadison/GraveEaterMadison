@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Zero</strong> | <em>Digital Otaku // Coder by Night</em></h1>
 <p align="center">
-  href="https://open.spotify.com/user/314q3t55yibgfdceuqbdd3g26pyq" target="_blank">Spotify</a>
+  <a href="https://open.spotify.com/user/314q3t55yibgfdceuqbdd3g26pyq" target="_blank">Spotify</a>
 </p>
 
 ---
