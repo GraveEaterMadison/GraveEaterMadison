@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8250ff,50:ff2d78,100:00f5ff&height=220&section=header&text=Z%20E%20R%20O&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Digital%20Otaku%20%2F%2F%20Coder%20by%20Night%20%2F%2F%20Sec%20Enthusiast&descAlignY=60&descSize=16&descColor=c0c0ff&animation=fadeIn&fontFamily=Orbitron" />
 
-<!-- TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=3000&pause=1000&color=8250FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%24+whoami+%E2%86%92+Zero+%7C+GraveEaterMadison;Otaku+Mode%3A+ON+%F0%9F%8C%B8+%7C+CTF+Active+%F0%9F%94%90+%7C+Coder+by+Night;Building+in+the+dark%2C+breaking+things+for+fun)](https://github.com/GraveEaterMadison)
 
 ![](https://img.shields.io/badge/Rank-%5B0x1%5D-8250ff?style=for-the-badge&labelColor=07070f)
@@ -31,25 +29,15 @@
 
 <div align="center">
 
-<!-- Stats card - using github-profile-summary-cards as reliable fallback -->
-<a href="https://github.com/GraveEaterMadison">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GraveEaterMadison&show_icons=true&theme=dracula&hide_border=true&bg_color=07070f&title_color=8250ff&icon_color=00f5ff&text_color=a0a0c8&ring_color=8250ff&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraveEaterMadison&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=07070f&title_color=ff2d78&text_color=a0a0c8&cache_seconds=1800" />
-</a>
-
-<!-- Profile summary cards - different service, more reliable -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GraveEaterMadison&theme=dracula" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GraveEaterMadison&theme=dracula" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GraveEaterMadison&theme=dracula" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GraveEaterMadison&theme=dracula" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GraveEaterMadison&theme=dracula" height="160" />
 
-<!-- Streak - demolab is generally more stable -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=GraveEaterMadison&theme=dracula&hide_border=true&background=07070f&stroke=8250ff&ring=8250ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=a0a0c8&dates=a0a0c8" />
 
-<!-- Activity graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GraveEaterMadison&bg_color=07070f&color=8250ff&line=00f5ff&point=ff2d78&area=true&hide_border=true" />
 
-<!-- Trophies - another independent service -->
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=GraveEaterMadison&theme=dracula&no-frame=true&margin-w=8&row=1" />
 
 </div>
