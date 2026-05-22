@@ -29,8 +29,6 @@
 
 ## `$ git log --stats`
 
-> ⚠️ **If the cards below don't load** — it means `github-readme-stats.vercel.app` is rate-limited (a known public issue). Refresh in a few hours or [self-host your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
-
 <div align="center">
 
 <!-- Stats card - using github-profile-summary-cards as reliable fallback -->
