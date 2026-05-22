@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8250ff,50:ff2d78,100:00f5ff&height=220&section=header&text=Z%20E%20R%20O&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Digital%20Otaku%20%2F%2F%20Coder%20by%20Night%20%2F%2F%20Sec%20Enthusiast&descAlignY=60&descSize=16&descColor=c0c0ff&animation=fadeIn&fontFamily=Orbitron" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=3000&pause=1000&color=8250FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%24+whoami+%E2%86%92+Zero+%7C+GraveEaterMadison;Otaku+Mode%3A+ON+%F0%9F%8C%B8+%7C+CTF+Active+%F0%9F%94%90+%7C+Coder+by+Night;Building+in+the+dark%2C+breaking+things+for+fun)](https://git.io/typing-svg)
+<!-- TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=3000&pause=1000&color=8250FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%24+whoami+%E2%86%92+Zero+%7C+GraveEaterMadison;Otaku+Mode%3A+ON+%F0%9F%8C%B8+%7C+CTF+Active+%F0%9F%94%90+%7C+Coder+by+Night;Building+in+the+dark%2C+breaking+things+for+fun)](https://github.com/GraveEaterMadison)
 
-<!-- STATUS BADGES -->
-![](https://img.shields.io/badge/Status-Do_Not_Disturb-ff2d78?style=for-the-badge&labelColor=07070f)
-![](https://img.shields.io/badge/Playing-Android_Studio-8250ff?style=for-the-badge&labelColor=07070f)
-![](https://img.shields.io/badge/Rank-%5B0x1%5D-00f5ff?style=for-the-badge&labelColor=07070f)
+![](https://img.shields.io/badge/Rank-%5B0x1%5D-8250ff?style=for-the-badge&labelColor=07070f)
+![](https://img.shields.io/badge/Mode-Otaku_ON-ff2d78?style=for-the-badge&labelColor=07070f)
+![](https://img.shields.io/badge/Vibe-Coder_by_Night-00f5ff?style=for-the-badge&labelColor=07070f)
 ![](https://komarev.com/ghpvc/?username=GraveEaterMadison&color=8250ff&style=for-the-badge&label=Visitors)
 
 </div>
@@ -22,46 +21,38 @@
 ╔══════════════════════════════════════════════════════════╗
 ║  > Handle  : GraveEaterMadison / Zeroyogurt              ║
 ║  > Alias   : Zero                                        ║
-║  > Discord : zeroyogurt  [Do not disturb]                ║
-║  > Playing : Android Studio | In SimpMusic...            ║
-║  > TryHackMe: [0x1]                                      ║
 ║  > Status  : always somewhere between debug and sleep ▮  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `$ cat currently.json`
+## `$ git log --stats`
 
-```json
-{
-  "watching": [
-    "Yuusha-kei ni Shosu: Chouba...",
-    "Sousou no Frieren 2nd Season",
-    "Yuusha Party wo Oidasareta..."
-  ],
-  "mal_username": "Zeroyogurt",
-  "episodes_total": 5581,
-  "days_devoted": 94.3,
-  "tryhackme": "Zeroyogurt [0x1]",
-  "discord": "zeroyogurt · Do Not Disturb",
-  "vibe": "2AM, headphones in, in the zone"
-}
-```
-
----
-
-## `$ git log --oneline`
+> ⚠️ **If the cards below don't load** — it means `github-readme-stats.vercel.app` is rate-limited (a known public issue). Refresh in a few hours or [self-host your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GraveEaterMadison&show_icons=true&theme=dracula&hide_border=true&bg_color=07070f&title_color=8250ff&icon_color=00f5ff&text_color=a0a0c8&ring_color=8250ff)](https://github.com/GraveEaterMadison)
+<!-- Stats card - using github-profile-summary-cards as reliable fallback -->
+<a href="https://github.com/GraveEaterMadison">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GraveEaterMadison&show_icons=true&theme=dracula&hide_border=true&bg_color=07070f&title_color=8250ff&icon_color=00f5ff&text_color=a0a0c8&ring_color=8250ff&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraveEaterMadison&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=07070f&title_color=ff2d78&text_color=a0a0c8&cache_seconds=1800" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GraveEaterMadison&layout=compact&langs_count=8&card_width=445&theme=dracula&hide_border=true&bg_color=07070f&title_color=ff2d78&text_color=a0a0c8)](https://github.com/GraveEaterMadison)
+<!-- Profile summary cards - different service, more reliable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GraveEaterMadison&theme=dracula" width="100%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GraveEaterMadison&theme=dracula&hide_border=true&background=07070f&stroke=8250ff&ring=8250ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=a0a0c8&dates=a0a0c8)](https://github.com/GraveEaterMadison)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GraveEaterMadison&theme=dracula" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GraveEaterMadison&theme=dracula" height="150" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GraveEaterMadison&bg_color=07070f&color=8250ff&line=00f5ff&point=ff2d78&area=true&hide_border=true)](https://github.com/GraveEaterMadison)
+<!-- Streak - demolab is generally more stable -->
+<img width="100%" src="https://streak-stats.demolab.com/?user=GraveEaterMadison&theme=dracula&hide_border=true&background=07070f&stroke=8250ff&ring=8250ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=a0a0c8&dates=a0a0c8" />
+
+<!-- Activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GraveEaterMadison&bg_color=07070f&color=8250ff&line=00f5ff&point=ff2d78&area=true&hide_border=true" />
+
+<!-- Trophies - another independent service -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=GraveEaterMadison&theme=dracula&no-frame=true&margin-w=8&row=1" />
 
 </div>
 
@@ -87,18 +78,11 @@
 
 ---
 
-## `$ ani-cli --profile`
+## `$ ani-cli --watching`
 
 <div align="center">
 
 [![MyAnimeList](https://malsignature.com/?/view?username=Zeroyogurt&style=normal)](https://myanimelist.net/profile/Zeroyogurt)
-
-| | |
-|:---|:---|
-| **MAL Username** | [Zeroyogurt](https://myanimelist.net/profile/Zeroyogurt) |
-| **Episodes Watched** | 5,581 |
-| **Days Devoted** | 94.3 |
-| **Currently Watching** | Frieren S2 · Yuusha-kei · Yuusha Party |
 
 </div>
 
@@ -111,7 +95,7 @@
 ![Rem](https://img.shields.io/badge/Rem-Re%3AZero-8250ff?style=flat-square&labelColor=07070f)
 ![Frieren](https://img.shields.io/badge/Frieren-Beyond_Journey's_End-00f5ff?style=flat-square&labelColor=07070f)
 ![Gojo](https://img.shields.io/badge/Gojo_Satoru-Jujutsu_Kaisen-ff2d78?style=flat-square&labelColor=07070f)
-![Levi](https://img.shields.io/badge/Levi_Ackerman-Attack_on_Titan-888888?style=flat-square&labelColor=07070f)
+![Levi](https://img.shields.io/badge/Levi-Attack_on_Titan-888888?style=flat-square&labelColor=07070f)
 ![Killua](https://img.shields.io/badge/Killua-Hunter_x_Hunter-00d4c2?style=flat-square&labelColor=07070f)
 ![ZeroTwo](https://img.shields.io/badge/Zero_Two-Darling_in_the_FranXX-ff2d78?style=flat-square&labelColor=07070f)
 ![Violet](https://img.shields.io/badge/Violet_Evergarden-KyoAni-8250ff?style=flat-square&labelColor=07070f)
@@ -136,7 +120,6 @@
 
 ---
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:8250ff,100:ff2d78&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
