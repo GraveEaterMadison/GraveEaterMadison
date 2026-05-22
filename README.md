@@ -121,11 +121,6 @@
 
 <div align="center">
 
-| Stat | Value |
-|---|---|
-| Total Episodes | 5,581 |
-| Days Watched | 94.3 |
-| MAL Username | Zeroyogurt |
 
 </div>
 
