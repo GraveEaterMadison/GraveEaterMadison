@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Rank-%5B0x1%5D-8250ff?style=for-the-badge&labelColor=07070f)
 ![](https://img.shields.io/badge/Mode-Otaku_ON-ff2d78?style=for-the-badge&labelColor=07070f)
-![](https://img.shields.io/badge/Vibe-Coder_by_Night-00f5ff?style=for-the-badge&labelColor=07070f)
+![](https://img.shields.io/badge/Coder-by_Night-00f5ff?style=for-the-badge&labelColor=07070f)
 ![](https://komarev.com/ghpvc/?username=GraveEaterMadison&color=8250ff&style=for-the-badge&label=Visitors)
 
 </div>
